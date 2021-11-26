@@ -1,6 +1,6 @@
 # Frontend Mentor - Calculator app
 
-![Design preview for the Calculator app coding challenge](./calculator-design.jpeg)
+![Design preview for the Calculator app coding challenge](./design/calculator-design.jpeg)
 
 ## Welcome! 👋
 
